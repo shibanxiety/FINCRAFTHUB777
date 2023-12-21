@@ -1,7 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
+CSS
 @charset "UTF-8";
 
 /*!
@@ -19305,8 +19302,6 @@ a.search-search:hover {
     }
 }
 
-/*--//w3l-features-1-content--*/
-/*--/w3l-project--*/
 section.w3l-project-main {
     background: var(--bg-color);
 }
@@ -19347,8 +19342,7 @@ section.w3l-project-main {
     text-align: right;
 }
 
-/*--//w3l-project--*/
-/*--/w3l-video--*/
+
 .w3l-video-sec {
     margin-bottom: -140px;
 }
@@ -19729,8 +19723,7 @@ p.inner-page-para {
     }
 }
 
-/*--//w3l-feature-with-photo-1--*/
-/*--/w3l-team--*/
+
 .w3l-team-main {
     background: var(--bg-color);
 }
@@ -19898,8 +19891,6 @@ p.inner-page-para {
     }
 }
 
-/*--//w3l-about2--*/
-/*--/services--*/
 .w3l-services2 {
     background: var(--bg-color);
 }
@@ -20280,7 +20271,7 @@ p.inner-page-para {
     color: #00D09C;
 }
 
-/*--//w3l-Pricing--*/
+/*--//Pricing--*/
 /*--//services--*/
 /*--/testimonials--*/
 
