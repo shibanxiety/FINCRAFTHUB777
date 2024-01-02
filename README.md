@@ -59,4 +59,4 @@ FincraftHub is a dynamic and innovative fintech consultancy website designed to 
 - **AI-Powered Advisory Assistants:**
   - Personalized, proactive recommendations using AI-driven advisory assistants.
 
-## FincraftHub is not just a consultancy; it's a dynamic ecosystem that evolves with the fintech landscape, providing unparalleled value, fostering collaboration, and preparing clients for the future of finance.
+### *FincraftHub is not just a consultancy; it's a dynamic ecosystem that evolves with the fintech landscape, providing unparalleled value, fostering collaboration, and preparing clients for the future of finance.*
