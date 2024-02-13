@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets"
+    "\\assets\\js",
+    "\\C#"
   ],
+  "SelectedNode": "\\C#\\BOT.cs",
   "PreviewInSolutionExplorer": false
 }
