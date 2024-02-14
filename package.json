@@ -1,0 +1,7 @@
+{
+
+}
+"scripts": {
+    "build": "your-build-command",
+    "build:azure": "your-azure-build-command"
+}
