@@ -2,6 +2,11 @@
 
 }
 "scripts": {
-    "build": "your-build-command",
-    "build:azure": "your-azure-build-command"
+    "build": "npm run build",
+    "build:azure": "build:
+  steps:
+    - name: Build
+      run: npm run build
+    # Add additional steps as needed
+"
 }
