@@ -1,7 +1,7 @@
 # FincraftHub
 
 # [GitHub Page](<https://shibanxiety.github.io/FINCRAFTHUB777/>)
-# [Azure Static Web](<https://kind-glacier-01a550110.4.azurestaticapps.netL>)
+# [Azure Static Web](<https://kind-glacier-01a550110.4.azurestaticapps.net>)
 
 ## Core Azure Services :
 1. Azure STATIC WEB APP
