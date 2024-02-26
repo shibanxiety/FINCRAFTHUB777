@@ -4,9 +4,4 @@
 "scripts": {
     "build": "npm run build",
     "build:azure": "build:
-  steps:
-    - name: Build
-      run: npm run build
-    # Add additional steps as needed
-"
-}
+
