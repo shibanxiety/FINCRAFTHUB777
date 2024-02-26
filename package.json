@@ -1,13 +1,4 @@
-const { build } = require('@azure/static-web-apps-cli');
-
-async function buildApp() {
-  try {
-    await build();
-    console.log('Application successfully built.');
-  } catch (error) {
-    console.error('Build failed:', error.message);
-    // Optionally, log the error to Application Insights or other monitoring service
-  }
+"scripts": {
+  ...
+  "build": "npm run build"
 }
-
-buildApp();
