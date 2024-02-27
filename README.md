@@ -26,7 +26,7 @@ FincraftHub is a dynamic and innovative fintech consultancy website designed to 
    - Facilitate connections between fintech professionals, businesses, and investors to foster collaboration and growth within the financial technology ecosystem.
   
 ### * AZURE RESOURCE GROUP IMAGE
-<img src="assets/Fincrafthubdrtproject - Microsoft Azure - Brave 14-02-2024 20_06_42.png" alt="An image">
+<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 27-02-2024 12_57_57.png" alt="An image">
 
 ## LIVE PROJECT DISPLAY ## 
 
