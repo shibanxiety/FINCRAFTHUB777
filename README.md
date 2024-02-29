@@ -31,20 +31,20 @@ FincraftHub is a dynamic and innovative fintech consultancy website designed to 
 ## LIVE PROJECT DISPLAY ## 
 
 # HOME PAGE
-<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 27-02-2024 18_26_42.png" alt="An image">
+<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 29-02-2024 12_11_06.png" alt="An image">
 
 
 # ABOUT
-<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 27-02-2024 18_26_56.png" alt="An image">
+<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 29-02-2024 12_14_47.png" alt="An image">
 
 
 
 # CONTACT
-<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 27-02-2024 18_27_55.png" alt="An image">
+<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 29-02-2024 12_15_15.png" alt="An image">
 
 
 # SERVICES
-<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 27-02-2024 18_27_47.png" alt="An image">
+<img src="assets/FINCRAFTHUB _ Home__SSD - Brave 29-02-2024 12_15_04.png" alt="An image">
 
 
 
